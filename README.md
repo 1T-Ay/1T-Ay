@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZbIFfqHXhKNYW7omJc/giphy.gif" width="100"/>
-</div>
 
 <h1 align="center">
-  Yo!
+  Hey!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -25,6 +22,7 @@ I am an Electrical Engineering student <img src="https://media.giphy.com/media/J
 
 - :telescope: I’m Interested in:
   - Electronics.
+  - Vintage technologies.
   - Embedded systems.
   - Computer science.
   - Robotics.
@@ -34,7 +32,7 @@ I am an Electrical Engineering student <img src="https://media.giphy.com/media/J
   
 - :seedling: Exploring Technical Content and improving my skills.
 
-- :zap: Curiosity is the fuel to keep going.
+- :zap: Curiosity is the fuel to keep on going.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("www.linkedin.com/in/ayoub-terrassi")
 
