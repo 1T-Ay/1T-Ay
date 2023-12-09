@@ -1,10 +1,8 @@
 
 <h1 align="center">
   Hey there!
-  
   <img src="https://media.giphy.com/media/3o7qDVyOtyuMK6NnTW/giphy.gif" />
  
-
 </h1>
 
 <div id="badges" align="center">
