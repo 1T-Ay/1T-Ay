@@ -1,7 +1,8 @@
 
 <h1 align="center">
-  Hey!
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <iframe src="https://giphy.com/embed/pPiEcJVRV3rflU23dd" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/usnationalarchives-space-nasa-pPiEcJVRV3rflU23dd">via GIPHY</a></p>
 </h1>
 
 <div id="badges" align="center">
@@ -16,13 +17,13 @@
 
 ---
 
-### :man_technologist: About Me :
+### 👨‍🔬 About Me :
 
 I am an Electrical Engineering student <img src="https://media.giphy.com/media/JGmjLpmTPS5QmgLFAM/giphy.gif" width="15"> from Morocco 🇲🇦.
 
 - :telescope: I’m Interested in:
   - Electronics.
-  - Vintage technologies.
+  - Vintage/Retro technologies.
   - Embedded systems.
   - Computer science.
   - Robotics.
@@ -32,14 +33,12 @@ I am an Electrical Engineering student <img src="https://media.giphy.com/media/J
   
 - :seedling: Exploring Technical Content and improving my skills.
 
-- :zap: Curiosity is the fuel to keep on going.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("www.linkedin.com/in/ayoub-terrassi")
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### ⚒ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" />&nbsp;
