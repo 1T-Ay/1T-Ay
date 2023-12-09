@@ -5,14 +5,10 @@
  
 </h1>
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/ayoub-terrassi">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qDVyOtyuMK6NnTW/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13vnU3JoFgR8xG/giphy.gif" width="300"/>
 </div>
 
 ---
