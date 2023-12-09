@@ -29,7 +29,7 @@ I am an Electrical Engineering student <img src="https://media.giphy.com/media/J
   
 - :seedling: Exploring Technical Content and improving my skills.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("www.linkedin.com/in/ayoub-terrassi")
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("www.linkedin.com/in/ayoub-terrassi")
 
 
 ---
