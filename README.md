@@ -8,14 +8,14 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13vnU3JoFgR8xG/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/13vnU3JoFgR8xG/giphy.gif" width="200"/>
 </div>
 
 ---
 
 ### 👨‍🔬 About Me :
 
-I am an Electrical Engineering student <img src="https://media.giphy.com/media/JGmjLpmTPS5QmgLFAM/giphy.gif" width="15"> from Morocco 🇲🇦.
+I am an Electrical Engineering student <img src="https://media.giphy.com/media/JGmjLpmTPS5QmgLFAM/giphy.gif" width="15">
 
 - :telescope: I’m Interested in:
   - Electronics.
