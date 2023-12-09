@@ -17,7 +17,7 @@
 
 I am an Electrical Engineering student <img src="https://media.giphy.com/media/JGmjLpmTPS5QmgLFAM/giphy.gif" width="15">
 
-- :telescope: I’m Interested in:
+- 📡 I’m Interested in:
   - Electronics.
   - Vintage/Retro technologies.
   - Embedded systems.
@@ -27,7 +27,7 @@ I am an Electrical Engineering student <img src="https://media.giphy.com/media/J
   - Science and Technology.
   - Research.
   
-- :seedling: Exploring Technical Content and improving my skills.
+- 🔬 Exploring Technical Content and improving my skills.
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("www.linkedin.com/in/ayoub-terrassi")
 
