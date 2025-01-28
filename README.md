@@ -15,7 +15,7 @@
 
 ### 👨‍🔬 About Me :
 
-I am an Electrical Engineering student <img src="https://media.giphy.com/media/JGmjLpmTPS5QmgLFAM/giphy.gif" width="15">
+Electrical Engineering student <img src="https://media.giphy.com/media/JGmjLpmTPS5QmgLFAM/giphy.gif" width="15">
 
 - 📡 I’m Interested in:
   - Electronics.
